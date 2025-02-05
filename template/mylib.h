@@ -1,8 +1,8 @@
 #ifndef MYLIB_H
 #define MYLIB_H
 
-// function declarations
+// constants
 
-// Constants
+// function declarations
 
 #endif // MYLIB_H
